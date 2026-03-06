@@ -2,8 +2,8 @@
 
 Build a Todo app in React that displays tasks, allows adding, toggling, and deleting tasks. Each task must be its own component. The app should maintain state, handle input focus, and react to changes in the task list.
 
-[View the User Overview Card](http://localhost:5173/user-overview-card)
-[Implementation](app/routes/user-overview-card.tsx)
+[View the User Overview Card](http://localhost:5173/todo)
+[Implementation](app/routes/todo.tsx)
 
 ## Data / Starting Point
 
